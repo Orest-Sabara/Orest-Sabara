@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Orest-Sabara
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning JavaScript/React and Python
+- 💞️ I’m looking to collaborate on Google, Tesla, Microsoft, Meta
+- 📫 How to reach me LinkedIn https://www.linkedin.com/in/orest-sabara-538811235/
